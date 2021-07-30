@@ -1,4 +1,4 @@
-import { getInputDirection } from './input.js'
+import { getInputDirection } from '../js/input.js'
 
 export const SNAKE_SPEED = 4 //pour faire varier la vitesse du bleu
 const snakeBody = [{ x: 11, y: 11 }]
